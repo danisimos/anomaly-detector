@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/6486cea48a4e400aa33e75a5e03a651e/artifacts
+end_time: 1713952652834
+entry_point_name: ''
+experiment_id: '125118010369676503'
+lifecycle_stage: active
+run_id: 6486cea48a4e400aa33e75a5e03a651e
+run_name: autoencoder_memory
+run_uuid: 6486cea48a4e400aa33e75a5e03a651e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713952636241
+status: 3
+tags: []
+user_id: danil

@@ -1,0 +1,20 @@
+artifact_path: autoencoder_cpu
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.10.11
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.15.0
+    model_type: keras
+    save_format: h5
+mlflow_version: 2.12.1
+model_size_bytes: 96664
+model_uuid: 15203ef6042a49b0b26fa5b11ead882f
+run_id: 6a440295d2a8463e972dd7a523a0db09
+utc_time_created: '2024-04-24 07:06:31.813285'

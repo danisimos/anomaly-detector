@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1714034084492
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1714039014521
+name: lof_memory
+run_id: 3e3c40173afc4a3b8d4f450776f695f2
+run_link: ''
+source: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/3e3c40173afc4a3b8d4f450776f695f2/artifacts/lof_memory
+status: READY
+status_message: null
+storage_location: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/3e3c40173afc4a3b8d4f450776f695f2/artifacts/lof_memory
+user_id: null
+version: 1

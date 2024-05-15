@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713966859858
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1713967800585
+name: ocsvm_memory
+run_id: d45fe6ece81d460da0fa8af111df6e69
+run_link: ''
+source: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/d45fe6ece81d460da0fa8af111df6e69/artifacts/ocsvm_memory
+status: READY
+status_message: null
+storage_location: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/d45fe6ece81d460da0fa8af111df6e69/artifacts/ocsvm_memory
+user_id: null
+version: 3

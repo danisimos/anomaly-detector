@@ -1,0 +1,19 @@
+artifact_path: lof_memory
+flavors:
+  python_function:
+    artifacts:
+      model_path:
+        path: artifacts\lof.pkl
+        uri: lof.pkl
+    cloudpickle_version: 3.0.0
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.10.11
+mlflow_version: 2.12.1
+model_size_bytes: 62943
+model_uuid: 8d6aa4db44cf4e47b6ab649724047a74
+run_id: 2500b325b30643b69c42ca182b62e353
+utc_time_created: '2024-04-25 10:28:29.039523'

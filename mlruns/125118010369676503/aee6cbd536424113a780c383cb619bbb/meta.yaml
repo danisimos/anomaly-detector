@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/aee6cbd536424113a780c383cb619bbb/artifacts
+end_time: 1713963775609
+entry_point_name: ''
+experiment_id: '125118010369676503'
+lifecycle_stage: active
+run_id: aee6cbd536424113a780c383cb619bbb
+run_name: lstm_cpu
+run_uuid: aee6cbd536424113a780c383cb619bbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713963757257
+status: 3
+tags: []
+user_id: danil

@@ -1,0 +1,9 @@
+artifact_location: file:///D:/save/IdeaProjects/prometheus-iqr/../../model_registry_artifacts
+creation_time: 1713768686657
+experiment_id: '870314726003363697'
+last_update_time: 1713769289288
+lifecycle_stage: deleted
+name: model registry experiment
+tags:
+  env: dev
+  version: '1.0'

@@ -1,0 +1,15 @@
+requests~=2.31.0
+python-dotenv~=1.0.0
+Flask~=3.0.2
+python-dotenv~=1.0.1
+fastapi==0.109.0
+openpyxl==3.1.2
+pymongo==3.11.3
+APScheduler==3.10.4
+prometheus-api-client==0.5.4
+tensorflow==2.15.0
+scikit-learn==1.2.2
+pyTelegramBotAPI
+deepod
+mlflow
+river

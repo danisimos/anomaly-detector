@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713964120409
+current_stage: None
+description: ''
+last_updated_timestamp: 1713964120409
+name: lstm_cpu
+run_id: 3067041b61454734b3cfd3f86f7f4e02
+run_link: ''
+source: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/3067041b61454734b3cfd3f86f7f4e02/artifacts/lstm_cpu
+status: READY
+status_message: null
+storage_location: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/3067041b61454734b3cfd3f86f7f4e02/artifacts/lstm_cpu
+user_id: null
+version: 10

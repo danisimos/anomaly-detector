@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713801622630
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1713964813355
+name: autoencoder_cpu
+run_id: 0a14156832264373829b98047a3e48ef
+run_link: ''
+source: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/0a14156832264373829b98047a3e48ef/artifacts/autoencoder_cpu
+status: READY
+status_message: null
+storage_location: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/0a14156832264373829b98047a3e48ef/artifacts/autoencoder_cpu
+user_id: null
+version: 2

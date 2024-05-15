@@ -1,0 +1,19 @@
+artifact_path: ocsvm_cpu
+flavors:
+  python_function:
+    artifacts:
+      model_path:
+        path: artifacts\ocsvm_cpu.pkl
+        uri: ocsvm_cpu.pkl
+    cloudpickle_version: 3.0.0
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.10.11
+mlflow_version: 2.12.1
+model_size_bytes: 687
+model_uuid: 55179bfb03044463b438b545d685b494
+run_id: 7054a04fc7314c8ca648d28baef8baab
+utc_time_created: '2024-04-24 14:24:47.122616'

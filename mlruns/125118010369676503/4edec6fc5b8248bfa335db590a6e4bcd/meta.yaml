@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/4edec6fc5b8248bfa335db590a6e4bcd/artifacts
+deleted_time: 1713856071887
+end_time: 1713855961888
+entry_point_name: ''
+experiment_id: '125118010369676503'
+lifecycle_stage: deleted
+run_id: 4edec6fc5b8248bfa335db590a6e4bcd
+run_name: test_artifacts
+run_uuid: 4edec6fc5b8248bfa335db590a6e4bcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713855961763
+status: 4
+tags: []
+user_id: danil

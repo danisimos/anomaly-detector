@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713967765327
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1713968706831
+name: ocsvm_cpu
+run_id: 1617118e7abd4115a277f1ae4be7d898
+run_link: ''
+source: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/1617118e7abd4115a277f1ae4be7d898/artifacts/ocsvm_cpu
+status: READY
+status_message: null
+storage_location: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/1617118e7abd4115a277f1ae4be7d898/artifacts/ocsvm_cpu
+user_id: null
+version: 6

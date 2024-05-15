@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/d45fe6ece81d460da0fa8af111df6e69/artifacts
+end_time: 1713966860000
+entry_point_name: ''
+experiment_id: '125118010369676503'
+lifecycle_stage: active
+run_id: d45fe6ece81d460da0fa8af111df6e69
+run_name: ocsvm_memory
+run_uuid: d45fe6ece81d460da0fa8af111df6e69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713966832827
+status: 3
+tags: []
+user_id: danil

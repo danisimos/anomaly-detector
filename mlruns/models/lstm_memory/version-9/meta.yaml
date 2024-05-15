@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713964137108
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1713964977975
+name: lstm_memory
+run_id: 9f125d30b4cd4a96b40e52003cdef130
+run_link: ''
+source: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/9f125d30b4cd4a96b40e52003cdef130/artifacts/lstm_memory
+status: READY
+status_message: null
+storage_location: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/9f125d30b4cd4a96b40e52003cdef130/artifacts/lstm_memory
+user_id: null
+version: 9

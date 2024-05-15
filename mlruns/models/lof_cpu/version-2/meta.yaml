@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1714036035686
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1714041857255
+name: lof_cpu
+run_id: 8797a58e0e7241e7975fcabb709d1525
+run_link: ''
+source: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/8797a58e0e7241e7975fcabb709d1525/artifacts/lof_cpu
+status: READY
+status_message: null
+storage_location: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/8797a58e0e7241e7975fcabb709d1525/artifacts/lof_cpu
+user_id: null
+version: 2

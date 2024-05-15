@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713967071218
+current_stage: Production
+description: ''
+last_updated_timestamp: 1713967071334
+name: autoencoder_memory
+run_id: a4309ed60773458599f515b065b2afd0
+run_link: ''
+source: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/a4309ed60773458599f515b065b2afd0/artifacts/autoencoder_memory
+status: READY
+status_message: null
+storage_location: file:///D:/save/IdeaProjects/prometheus-iqr/model_registry_artifacts/a4309ed60773458599f515b065b2afd0/artifacts/autoencoder_memory
+user_id: null
+version: 8

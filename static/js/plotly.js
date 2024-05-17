@@ -134,7 +134,7 @@ function drawGraph() {
             }
         }
 
-        if(anomaly_model !== 'Transformer' && anomaly_model !== 'LOF' && !timeframe.endsWith('d') && !timeframe.endsWith('8h')) {
+        if(anomaly_model !== 'Transformer' && anomaly_model !== 'LOF' && !timeframe.endsWith('d') && !timeframe.endsWith('8h') && !timeframe.endsWith('1h')) {
             $.ajax({
                 url:url,
                 type: "POST",

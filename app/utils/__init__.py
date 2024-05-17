@@ -40,7 +40,7 @@ def get_metrics(start_time, end_time, prometheus_url, anomaly_model, ajax_reques
 def get_prometheus_metrics(start_time, end_time, prometheus_url, metric):
     prom = PrometheusConnect(url='http://' + prometheus_url, disable_ssl=True)
 
-    step = 60*60 if (str(start_time).endswith('d')) else 10
+    step = 30#*60 if (str(start_time).endswith('d')) else 10
     start_time = parse_datetime(start_time)
     end_time = parse_datetime(end_time)
 

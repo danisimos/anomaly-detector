@@ -11,7 +11,7 @@ def get_column_outliers(df, metric):
         score = model.score_one(dict)
         scores.append(score)
 
-    ucl = pd.DataFrame(scores).quantile(0.97)
+    ucl = pd.DataFrame(scores).quantile(0.99)
 
     df['anomaly'] = pd.DataFrame(scores, index=df.index) > ucl
     df['anomaly'] = df['anomaly'].astype(bool)
